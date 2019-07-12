@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+    <string name="name">Name</string>
+    <string name="colon_and_space">": "</string>
+
+</resources>
